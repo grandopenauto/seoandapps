@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seoandapps.com/sitemap.xml
